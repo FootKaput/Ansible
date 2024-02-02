@@ -1,6 +1,6 @@
 # Ansible
 Ansible Deployments
 
-First Commit
+- First Commit
 
-Second Entry
+-- Second Entry
